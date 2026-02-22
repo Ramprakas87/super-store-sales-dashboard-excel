@@ -78,7 +78,7 @@ This Excel dashboard provides insights into:
 
 ##  Author  
 
-**Ram Prahash Patel**  
+**Ram Prakash Patel**  
 Aspiring Data Analyst  
 
 ---
